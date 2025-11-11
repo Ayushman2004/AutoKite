@@ -33,7 +33,7 @@ AutoKite is an AI-driven email client designed to make your inbox lighter and sm
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/AutoKite.git
+git clone https://github.com/Ayushman2004/AutoKite.git
 cd AutoKite
 ```
 
